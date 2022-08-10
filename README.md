@@ -22,3 +22,5 @@ return new PartialFileStreamResult(stream, mimeType, fileName);
 Notice `fileName` which you can also pass. It's nullable, so you don't have to.
 
 Enjoy :))
+
+Link to the original `FileStreamResult` source: [here](https://github.com/dotnet/aspnetcore/blob/main/src/Mvc/Mvc.Core/src/FileStreamResult.cs) (MIT)
